@@ -10,6 +10,8 @@ The International Conference on Language Resources and Evaluation is organised b
   
 AMTA is the North American component of the International Association for Machine Translation (IAMT), which also includes the Asian-Pacific Association for Machine Translation (AAMT) and the European Association for Machine Translation (EAMT). The IAMT Council comprises a balanced representation of all  regions. Members of any of the three regional associations automatically become part of the IAMT network. AMTA is governed by the by-laws codified in this document.
 
+- (https://machinetranslate.org)
+
 
   
 
