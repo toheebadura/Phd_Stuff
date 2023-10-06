@@ -1,5 +1,5 @@
 # PhD Information/Resources and Other Rants
-Hi there!! So, here, I'll be adding helpful information for my Ph.D. I got this idea from a [senior colleague](https://github.com/33fred33) in my programme and would love to ride on it. So, let's go!!
+Hi there!! So, here, I'll be adding helpful information for my PhD. I got this idea from a [senior colleague](https://github.com/33fred33) in my programme and would love to ride on it. So, let's go!!
 
 ## Conference Links
 - [LSEC Conferences](http://www.lrec-conf.org) 
@@ -17,6 +17,10 @@ AMTA is the North American component of the International Association for Machin
 - [Visual Paradigm Online](https://online.visual-paradigm.com)
 - [Draw dot IO](https://app.diagrams.net)
 
+## YouTube Tutorials
+### Natural Language Processing
+
+- [NLP with Deep Learning Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
   
 
