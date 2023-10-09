@@ -17,10 +17,17 @@ AMTA is the North American component of the International Association for Machin
 - [Visual Paradigm Online](https://online.visual-paradigm.com)
 - [Draw dot IO](https://app.diagrams.net)
 
-## YouTube Tutorials
+## Resources: Blog or Books
+- [Steps in MAstering NLP](https://www.kdnuggets.com/7-steps-to-mastering-natural-language-processing)
+
+## Resources: YouTube or Video Tutorials
 ### Natural Language Processing
 
 - [NLP with Deep Learning Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+
+
+
+
 
   
 
