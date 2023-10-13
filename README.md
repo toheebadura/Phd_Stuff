@@ -12,6 +12,9 @@ AMTA is the North American component of the International Association for Machin
 
 - [LoResMT](https://machinetranslate.org)
 
+## Speaking
+- [How To Speak](https://www.youtube.com/watch?v=Unzc731iCUY)
+
 ## Online Drawing Tools
 
 - [Visual Paradigm Online](https://online.visual-paradigm.com)
