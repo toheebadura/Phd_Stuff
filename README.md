@@ -30,7 +30,7 @@ AMTA is the North American component of the International Association for Machin
 
 ### Machine Learning
 
-[TWIML Hands-on Machine Learning Study Group](https://www.youtube.com/playlist?list=PLesM8TI75z-G6I7y6YIrs8USDeIV4FBjl)
+- [TWIML Hands-on Machine Learning Study Group](https://www.youtube.com/playlist?list=PLesM8TI75z-G6I7y6YIrs8USDeIV4FBjl)
 ### Natural Language Processing
 
 - [Introduction to Natural Language Processing](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
