@@ -27,7 +27,7 @@ AMTA is the North American component of the International Association for Machin
 ## Resources: YouTube or Video Tutorials
 ### Natural Language Processing
 
-
+- [Introduction to Natural Language Processing](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
 - [NLP with Deep Learning Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
 
