@@ -30,7 +30,7 @@ AMTA is the North American component of the International Association for Machin
 - [Introduction to Natural Language Processing](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
 - [Natural Language Processing by Jurafsky and Manning](https://www.youtube.com/playlist?list=PL8FFE3F391203C98C)
 - [NLP with Deep Learning Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
-- [CS224d](Deep Learning for Natural Language Processing)
+- [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
 
 
 
