@@ -21,6 +21,7 @@ AMTA is the North American component of the International Association for Machin
 - [Draw dot IO](https://app.diagrams.net)
 
 ## Resources: Blog or Books
+- [Natural Language Processing](https://naturallanguageprocessing.com)
 - [Steps in MAstering NLP](https://www.kdnuggets.com/7-steps-to-mastering-natural-language-processing)
 - [What is Natural Language Processing (NLP)? A Comprehensive Guide for Beginners](https://www.datacamp.com/blog/what-is-natural-language-processing?utm_source=customerio&utm_medium=email&utm_campaign=231010_1-newsletter_2-b2b_3-all_4-na_5-na_6-dc-insights_7-na_8-emal-ci_9-na_10-bau_11-email&utm_content=blast&utm_term=blog&dc_euid=12649049)
 - [Language Log](https://languagelog.ldc.upenn.edu/nll/)
