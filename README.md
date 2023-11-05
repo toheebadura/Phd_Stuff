@@ -4,7 +4,7 @@ Hi there!! So, here, I'll be adding helpful information for my PhD. I got this i
 ## Conference Links
 - [Conference on Empirical Methods in Natural Language Processing](https://2023.emnlp.org)
 
-- [ACL Home Association for Computational Linguistics](https://www.aclweb.org/portal/content/submission-dates-and-process-eaclnaacl-and-acl-2024)
+- [Association for Computational Linguistics](https://www.aclweb.org/portal/content/submission-dates-and-process-eaclnaacl-and-acl-2024)
 
 - [LSEC Conferences](http://www.lrec-conf.org) 
 
