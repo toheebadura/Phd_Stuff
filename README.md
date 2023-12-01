@@ -27,7 +27,7 @@ AMTA is the North American component of the International Association for Machin
 ## Resources: Blog or Books
 - [My Writing or Drafts &mdash; if it qualifies](https://distinctadura.atlassian.net/wiki/spaces/~639359e377acd224b34378e5/pages/edit-v2/6946817?draftShareId=78bbf76f-7da0-427a-a622-d66435c614a6)
 - [GitHub Repo - Machine Learning and Deep Learning](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning)
-- [Practical Deep Learning for Coders -- Fast AI](https://course.fast.ai)
+- [Practical Deep Learning for Coders &mdash; Fast AI](https://course.fast.ai)
 - [Natural Language Processing](https://naturallanguageprocessing.com)
 - [Steps in Mastering NLP](https://www.kdnuggets.com/7-steps-to-mastering-natural-language-processing)
 - [What is Natural Language Processing (NLP)? A Comprehensive Guide for Beginners](https://www.datacamp.com/blog/what-is-natural-language-processing?utm_source=customerio&utm_medium=email&utm_campaign=231010_1-newsletter_2-b2b_3-all_4-na_5-na_6-dc-insights_7-na_8-emal-ci_9-na_10-bau_11-email&utm_content=blast&utm_term=blog&dc_euid=12649049)
