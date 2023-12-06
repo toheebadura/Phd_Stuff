@@ -25,7 +25,7 @@ AMTA is the North American component of the International Association for Machin
 - [Draw dot IO](https://app.diagrams.net)
 
 ## Resources: Blog or Books
-- [My Writing or Drafts &mdash; if it qualifies](https://distinctadura.atlassian.net/wiki/spaces/~639359e377acd224b34378e5/pages/edit-v2/6946817?draftShareId=78bbf76f-7da0-427a-a622-d66435c614a6)
+- [My Writing or Drafts &mdash; it's coming out well, ngl](https://distinctadura.atlassian.net/wiki/spaces/~639359e377acd224b34378e5/pages/edit-v2/6946817?draftShareId=78bbf76f-7da0-427a-a622-d66435c614a6)
 - [GitHub Repo - Machine Learning and Deep Learning](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning)
 - [Practical Deep Learning for Coders &mdash; Fast AI](https://course.fast.ai)
 - [Natural Language Processing](https://naturallanguageprocessing.com)
