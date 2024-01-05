@@ -2,6 +2,7 @@
 Hi there!! So, here, I'll be adding helpful information for my PhD. I got this idea from a [senior colleague](https://github.com/33fred33) in my programme and would love to ride on it. So, let's go!!
 
 ## Conference Links
+- [SNLP 2024 : 5th International Conference on Semantic & Natural Language Processing](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=174049)
 - [Conference on Empirical Methods in Natural Language Processing](https://2023.emnlp.org)
 
 - [Association for Computational Linguistics](https://www.aclweb.org/portal/content/submission-dates-and-process-eaclnaacl-and-acl-2024)
