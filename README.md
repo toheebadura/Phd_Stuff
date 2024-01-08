@@ -40,7 +40,7 @@ AMTA is the North American component of the International Association for Machin
 ## Resources: YouTube or Video Tutorials
 
 ### Machine Learning and Deep Learning
-- [DEEP LEARNING COURSE](https://fleuret.org/dlc/)
+- [DEEP LEARNING COURSE by François Fleuret, University of Geneva, Switzerland](https://fleuret.org/dlc/)
 - [The Mathematical Engineering of Deep Learning](https://www.youtube.com/watch?v=9qft8r1iZYQ&list=PL7RZyOlq_XnylnDcHchjKeFuMNxeDdH4P&t=2s)
 -  [3Blue1Brown &mdash; Deep Learning](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
