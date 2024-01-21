@@ -41,6 +41,7 @@ AMTA is the North American component of the International Association for Machin
 
 ### Machine Learning and Deep Learning
 - [MIT Introduction to Deep Learning YouTube Playlist](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [UC Berkeley Full Stack Deep Learning](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv)
 - [DEEP LEARNING COURSE by François Fleuret, University of Geneva, Switzerland](https://fleuret.org/dlc/)
 - [The Mathematical Engineering of Deep Learning](https://www.youtube.com/watch?v=9qft8r1iZYQ&list=PL7RZyOlq_XnylnDcHchjKeFuMNxeDdH4P&t=2s)
 -  [3Blue1Brown &mdash; Deep Learning](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
