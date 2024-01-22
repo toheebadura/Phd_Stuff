@@ -57,6 +57,10 @@ AMTA is the North American component of the International Association for Machin
 - [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
 
 
+### Extra
+
+-  [IBM Data Analyst Complete Course on YouTube](https://www.youtube.com/watch?v=1PAy6d16ADQ&t=8061s)
+
 
 
 
