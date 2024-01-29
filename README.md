@@ -28,7 +28,8 @@ AMTA is the North American component of the International Association for Machin
 
 ## Resources: Blog or Books
 - [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org)
-- [My Writing or Drafts &mdash; It's coming out well, I think](https://distinctadura.atlassian.net/wiki/spaces/~639359e377acd224b34378e5/pages/edit-v2/6946817?draftShareId=78bbf76f-7da0-427a-a622-d66435c614a6)
+- [My Writing or Drafts (1) &mdash; It's coming out well, I think](https://distinctadura.atlassian.net/wiki/spaces/~639359e377acd224b34378e5/pages/edit-v2/6946817?draftShareId=78bbf76f-7da0-427a-a622-d66435c614a6)
+-  [My Writing or Drafts (2) &mdash; Maybe this is also coming out well](https://distinctadura.atlassian.net/wiki/spaces/~639359e377acd224b34378e5/pages/edit-v2/21004289)
 - [GitHub Repo - Machine Learning and Deep Learning](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning)
 - [Practical Deep Learning for Coders &mdash; Fast AI](https://course.fast.ai)
 - [Natural Language Processing](https://naturallanguageprocessing.com)
@@ -50,6 +51,7 @@ AMTA is the North American component of the International Association for Machin
 - [Coursera Machine Learning Specialization](https://www.coursera.org/learn/machine-learning/)
 
 - [TWIML Hands-on Machine Learning Study Group](https://www.youtube.com/playlist?list=PLesM8TI75z-G6I7y6YIrs8USDeIV4FBjl)
+  
 ### Natural Language Processing
 
 - [Introduction to Natural Language Processing](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
