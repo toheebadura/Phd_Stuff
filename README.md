@@ -43,6 +43,7 @@ AMTA is the North American component of the International Association for Machin
 ## Resources: YouTube or Video Tutorials
 
 ### Machine Learning and Deep Learning
+- [UC Berkeley Deep Learning Course](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 - [Learn PyTorch for deep learning in a day. Literally - Daniel Bourke](https://www.youtube.com/watch?v=Z_ikDlimN6A)
 - [MIT Introduction to Deep Learning YouTube Playlist](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [UC Berkeley Full Stack Deep Learning](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv)
