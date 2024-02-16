@@ -28,6 +28,7 @@ AMTA is the North American component of the International Association for Machin
 - [Draw dot IO](https://app.diagrams.net)
 
 ## Resources: Blog or Books
+- [ Introduction to Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses#introduction-to-machine-learning-Tübingen)
 - [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org)
 - [My Writing or Drafts (1) &mdash; It's coming out well, I think](https://distinctadura.atlassian.net/wiki/spaces/~639359e377acd224b34378e5/pages/edit-v2/6946817?draftShareId=78bbf76f-7da0-427a-a622-d66435c614a6)
 -  [My Writing or Drafts (2) &mdash; Maybe this is also coming out well](https://distinctadura.atlassian.net/wiki/spaces/~639359e377acd224b34378e5/pages/edit-v2/21004289)
