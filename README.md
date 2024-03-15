@@ -2,6 +2,7 @@
 Hi there!! So, here, I'll be adding helpful information for my PhD. I got this idea from a [senior colleague](https://github.com/33fred33) in my programme and would love to ride on it. So, let's go!!
 
 ## Conference Links
+- [2024 International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2024)](https://www.clnlp.org/cfp.html)
 - [2024 5th International Conference on Natural Language Processing and Artificial Intelligence (NLPAI 2024)](https://www.nlpai.org)
 - [Conference Index](https://conferenceindex.org/search?query=natural+language+processing)
 - [Conference Lister](http://www.wikicfp.com/cfp/call?conference=NLP&skip=1)
